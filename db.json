@@ -1,0 +1,24 @@
+{
+  "student": [
+    {
+      "id": "5e2e",
+      "lname": "Rinkal Patel",
+      "email": "hello@zignuts.com"
+    },
+    {
+      "id": "8694",
+      "lname": "Dhruvi",
+      "email": "design@zignuts.com"
+    },
+    {
+      "id": "dbb9",
+      "lname": "dhruvi bhavsar",
+      "email": "dhruvib@zignuts.com"
+    },
+    {
+      "id": "7973",
+      "lname": "parth gupta",
+      "email": "parthgupta@zignuts.com"
+    }
+  ]
+}

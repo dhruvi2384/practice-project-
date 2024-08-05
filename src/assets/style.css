@@ -1,0 +1,32 @@
+body{
+    font-family: "DK Uloopet", cursive;
+}
+header{
+    justify-content: center;
+}
+header h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.student_listing{
+    width: 80%;
+    margin: 40px auto 0 auto;
+}
+.student_listing th,td{
+    text-align: left;
+    padding: 10px;
+}
+.student_listing table{
+    width: 100%;
+}
+.button_sec{
+    text-align: end;
+    margin-bottom: 20px;
+}
+.search_input{
+    border: 2px solid #172554;
+    border-radius:8px ;
+    padding: 5px;
+    width: 400px;
+    max-width: 100%;
+}
